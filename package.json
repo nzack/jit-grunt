@@ -16,7 +16,7 @@
     "email": "shotaro.tsubouchi@gmail.com"
   },
   "files": [
-    "lib",
+    "src",
     "jit-grunt.js"
   ],
   "main": "jit-grunt",
